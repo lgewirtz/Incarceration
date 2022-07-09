@@ -5,7 +5,7 @@ This project studies the difference in the incarceration rates of the Black popu
 
 Files in this project include wrangled data in csv format, python scripts and project notes.
 
-## Visualizations of the study can be found on [Tableau Public Incarceration Rates](https://public.tableau.com/app/profile/liz.gewirtz/viz/IncarcerationRates_16280989165760/IncarcerationRates).
+### Visualizations of the study can be found on [Tableau Public Incarceration Rates](https://public.tableau.com/app/profile/liz.gewirtz/viz/IncarcerationRates_16280989165760/IncarcerationRates).
 
 ### Limitations
 Since youth under age 15 and adults over 64 are at very low risk of jail incarceration, Vera removed these groups from the dataset. 
